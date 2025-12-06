@@ -1,5 +1,5 @@
-title: CoatSorav2-8 (KH2PCPATCH)
-originalAuthor: Unknown
+title: CoatSora
+originalAuthor: Creepola
 description: This is an automatically generated metadata for this KH2PCPATCH Modification.
 game: kh2
 dependencies: 
@@ -868,3 +868,4 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_ULTF.mdlx\-5.dds
+
